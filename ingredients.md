@@ -6,6 +6,6 @@
 - 2 tsp salt
 - 1/2 onion
 - ciucciobbestia
+w git!
 
-viva git!
 
