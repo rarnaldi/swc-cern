@@ -1,6 +1,6 @@
 # Instructions 
 
-recipy
+recipe
 - chop avocados
 - chop onion
 - add salt to taste
